@@ -13,7 +13,6 @@ public interface ApplicantType {
 	 *                                           value pairs is null
 	 */
 	
-	
 	public String getApplicantType(Map<String, Object> map) throws InvalidApplicantArgumentException;
 
 }
