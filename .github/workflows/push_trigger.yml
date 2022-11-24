@@ -7,9 +7,6 @@ on:
       - 1.*
       - develop
       - release*
-  pull_request:
-    branches:
-      - master
   
 jobs:
   build:
