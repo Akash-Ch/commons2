@@ -19,7 +19,6 @@ public class InvalidApplicantArgumentException extends BaseCheckedException {
 	 * Generated serial version id
 	 */
 	private static final long serialVersionUID = 2785372588639412708L;
-	private static final int a = 1;
 
 	/**
 	 * Constructor to initialize handler exception
