@@ -12,6 +12,8 @@ public interface ApplicantType {
 	 * @throws InvalidApplicantArgumentException if provided map or its attribute
 	 *                                           value pairs is null
 	 */
+	
+	
 	public String getApplicantType(Map<String, Object> map) throws InvalidApplicantArgumentException;
 
 }
